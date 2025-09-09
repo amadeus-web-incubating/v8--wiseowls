@@ -1,0 +1,12 @@
+#key	value
+name	AmadeusWeb | Wisdom
+byline	The Way from Within
+safeName	wiseowls
+iconName	Wisdom
+footer-message	Showcasing all our supporters and their thoughts / body of work / learnings as we all walk the path to wisdom.
+siteMenuName	WiseOwls
+sections	people
+sections_no	members: families+guides+parents+students, people, orgs:schools+colleges+companies
+local-url	http://localhost/wiseowls/
+live-url	https://wiseowls.life/
+year	2024
