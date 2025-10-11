@@ -5,8 +5,8 @@ safeName	wiseowls
 iconName	Wisdom
 footer-message	Showcasing all our supporters and their thoughts / body of work / learnings as we all walk the path to wisdom.
 siteMenuName	WiseOwls
-sections	people
+sections	growth, people, families, elders
 sections_no	members: families+guides+parents+students, people, orgs:schools+colleges+companies
-local-url	http://localhost/wiseowls/
+local-url	http://localhost/alliance-of/sites/wiseowls/
 live-url	https://wiseowls.life/
 year	2024
