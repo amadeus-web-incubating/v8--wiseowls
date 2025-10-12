@@ -1,4 +1,7 @@
 <?php
 variables([
-	'sections-have-files' => true,
+	'siteHumanizeReplaces' => [
+		'grow' => 'How to Grow',
+		'grow into' => 'Growth Choices',
+	],
 ]);

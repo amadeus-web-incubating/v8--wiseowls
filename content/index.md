@@ -1,10 +1,6 @@
 # Welcome to %siteName%
 
-[aessop](#%url%aessop/BTNINFO)
-[sophia](#%url%sophia/BTNINFO)
-[goodness](#%url%goodness/BTNINFO)
-[aspire-to-thrive](#%url%aspire-to-thrive/BTNINFO)
-
-[spacer]Recent Pages[/spacer]
-
-%articles-corecodesnippet%
+[Aessop](#%url%aessop/BTNINFO)
+[Sophia](#%url%sophia/BTNINFO)
+[Goodness](#%url%goodness/BTNINFO)
+[Aspire to Thrive](#%url%aspire-to-thrive/BTNINFO)
